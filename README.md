@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoMike01
-- 👀 I’m interested in prograr
+- 👀 I’m interested in program
 - 🌱 I’m currently learning Java
 <!---
 CoMike01/CoMike01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
